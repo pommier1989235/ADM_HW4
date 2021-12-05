@@ -19,6 +19,6 @@ Dataset used:
   - [query9](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/queries/track9.wav)
   - [query10](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/queries/track10.wav)
 2) For the second exercise we use these datasets:
- - [echonest.csv](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/echonest.csv);  notice that for the 2.4.7 exercise we do not consider the [echonest.csv] file.
+ - [echonest.csv](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/echonest.csv);  notice that for the 2.4.7 exercise we do not consider the echonest.csv file.
  - [features.csv](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/features.csv)
  - [tracks.csv](https://sapienza2021adm.s3.eu-south-1.amazonaws.com/hw4/tracks.csv)
